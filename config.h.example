@@ -1,0 +1,6 @@
+#pragma once
+
+// Copy this file to config.h and replace the placeholder values.
+// config.h is intentionally excluded from version control.
+constexpr char WIFI_SSID[] = "YOUR_WIFI_SSID";
+constexpr char WIFI_PASSWORD[] = "YOUR_WIFI_PASSWORD";
